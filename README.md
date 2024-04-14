@@ -6,7 +6,7 @@ Focumoji is a userbot built using gramjs for Telegram accounts, designed to stre
 
 - **Emoji-Based Folder Management**: Automatically categorize chats into different sets of folders based on the status emoji set for the account.
 - **Easy Integration**: Integrate Focumoji seamlessly into your existing Telegram workflow.
-- **Infinite Folders Activated**: By this tool, you can have infinite folders packed in 10 (20 for premium) folders for each status.
+- **Infinite Folders Activated**: By this tool, you can have infinite folders packed in 20 folders for each status.
 
 ## Getting Started
 
@@ -46,6 +46,8 @@ To utilize Focumoji, follow these steps:
 2. **Alternative Method**: Another way to activate a Focumoji is by adding [this emoji pack](https://t.me/addemoji/ApplyFocus) to your Telegram account. After adding the pack, set the emoji from the pack as your status emoji. This method achieves the same result as using the `/savestatus` command.
 
 3. **Folder Management**: Once a Focumoji is activated on the Telegram account, any changes made to your folders will be saved for that particular emoji. This allows for seamless organization and retrieval of chats based on emoji statuses.
+
+4. Don't forget that for using status emoji, you need Telegram Premium.
 
 
 ## Contributing
