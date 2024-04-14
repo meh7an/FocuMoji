@@ -1,6 +1,6 @@
 # Focumoji
 
-Focumoji is a userbot built using gramjs for Telegram accounts, designed to streamline folder management based on the status emoji set on the account. With FucoMoji, users can effortlessly organize their Telegram folders according to their designated emoji statuses.
+Focumoji is a userbot built using gramjs for Telegram accounts, designed to streamline folder management based on the status emoji set on the account. With FocuMoji, users can effortlessly organize their Telegram folders according to their designated emoji statuses.
 
 ## Features
 
